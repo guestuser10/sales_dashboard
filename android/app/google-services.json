@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713452001170",
+    "project_id": "pruebaspush-545c8",
+    "storage_bucket": "pruebaspush-545c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713452001170:android:3f8af2acb96af6716a934b",
+        "android_client_info": {
+          "package_name": "com.example.sales_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXGzm40kE1ywWDBupM9rOxildfXAKD1wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

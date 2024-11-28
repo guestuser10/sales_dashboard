@@ -10,12 +10,12 @@ final appRouter = GoRouter(
   routes: [
 
     GoRoute(
-      path: '/m',
+      path: '/',
       name: DashboardScreen.name,
       builder: (context, state) => const DashboardScreen(),
     ),
     GoRoute(
-      path: '/',
+      path: '/mapa',
       name: MapPage.name,
       builder: (context, state) => MapPage(),
     ),
